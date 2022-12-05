@@ -1,2 +1,2 @@
 # Parse_avito
-Parser site avito is studyng project
+Parser site steam is studyng project
